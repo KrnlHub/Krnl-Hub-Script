@@ -31,5 +31,4 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Krnl Hub Notification";
 	Text = "Krnl Hub is coming soon!";
-	Duration = 10;
 })
