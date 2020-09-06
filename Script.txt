@@ -1,0 +1,34 @@
+--//    Krnl Hub V1   \\ --
+--||                  || --
+--||	Updated	Logs  || --
+--\\		      // --
+----------------------------
+
+--[Nah]
+
+----------------------------
+--//    Krnl Hub V1   \\ --
+--||                  || --
+--||	  Info        || --
+--\\		      // --
+----------------------------
+
+--[Discord]: https://discord.gg/dDyB7gs
+
+--[Version]: 1.0.0
+
+--[Released Date]: UNKNOWN
+
+--[Supported Exploits]: KRNL
+
+----------------------------
+--//    Krnl Hub V1   \\ --
+--||                  || --
+--||	  Script      || --
+--\\		      // --
+----------------------------
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+	Title = "Krnl Hub Notification";
+	Text = "Krnl Hub is coming soon!";
+})
